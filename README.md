@@ -7,3 +7,8 @@ Broken down into 4 parts
 4. The data should automatically be replicated, so there is never a single point of failure.  
 
 Implemented in 3 languages: C++, Java, Python
+
+_________________________________________________________________
+For the Java portion
+[Application documentation ](https://docs.google.com/document/d/15FiAAo_-BcgW_5sWp1Zy7ojBGqYeUpA88WR2xJi9h5Q/edit?usp=sharing)
+[Node discovery Explanation](https://docs.google.com/document/d/1PwV2oIoX03Sh5SjfcaJh-1Fr9LLbQ5flgrHe5qSRj5g/edit#heading=h.m0knybfbf1q7)
